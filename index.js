@@ -1,3 +1,4 @@
+alert("After pressing ok you'll see our winner!!");
 var random=7*(Math.random());
 random=Math.ceil(random);
 random=random%7;
